@@ -1,3 +1,4 @@
+https://app.patika.dev/barborost </br>
 # SQL-Any-All
 
 Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
